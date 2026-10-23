@@ -1,0 +1,6 @@
+{
+  "name": "Sudhir Online Service Center - Cyber Cafe Bhadwar",
+  "description": "Official digital services portal for Sudhir Online Service Center, Bhadwar (Buxar, Bihar). Offering online government form filling, RTPS Bihar certificates, PAN card, Voter ID, Land records, AEPS banking, and cyber cafe printing services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
